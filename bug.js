@@ -1,0 +1,1 @@
+This bug occurs when using the Expo CLI to build an Android app.  The build process fails with an error related to the Android Gradle plugin version.  The error message isn't always clear, often mentioning issues with dependencies or conflicting versions.
